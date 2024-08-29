@@ -1,0 +1,6 @@
+git
+git init
+git status
+git add code.py.txt
+git add example.txt
+git status
